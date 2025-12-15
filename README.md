@@ -19,9 +19,6 @@ contract details, and churn status.
 - Customers with high monthly charges are more likely to churn
 - Lack of long-term contracts correlates with churn risk
 
-## Dashboard Preview
-![Dashboard]("C:\Users\anjal\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 113449.png")
-)
 
 ## How to Use
 1. Download the `.pbix` file from the `powerbi` folder
