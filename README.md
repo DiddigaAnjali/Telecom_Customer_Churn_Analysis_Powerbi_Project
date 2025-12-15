@@ -20,7 +20,7 @@ contract details, and churn status.
 - Lack of long-term contracts correlates with churn risk
 
 ## Dashboard Preview
-![Dashboard](<img width="1768" height="992" alt="Screenshot 2025-12-15 113449" src="https://github.com/user-attachments/assets/9aeacc93-5a20-44fa-8bf3-9cf95b4d7b88" />
+![Dashboard]("C:\Users\anjal\OneDrive\Pictures\Screenshots\Screenshot 2025-12-15 113449.png")
 )
 
 ## How to Use
